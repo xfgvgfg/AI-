@@ -21,7 +21,8 @@ python app.py
 ```
 
 启动后，在浏览器中访问 `http://127.0.0.1:7861` 即可使用。
-<img width="1730" height="156" alt="image" src="https://github.com/user-attachments/assets/770b7dae-82b2-41d3-9f59-dfe7def2fc1e" />
+<img width="874" height="151" alt="image" src="https://github.com/user-attachments/assets/99303ae6-6b7a-40c5-91de-6683f1375127" />
+
 
 ## 获取 API 密钥
 
