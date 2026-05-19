@@ -1,9 +1,6 @@
 import os
 import re
 from openai import OpenAI
-from dotenv import load_dotenv
-
-load_dotenv()
 
 URL_SYSTEM_PROMPT = """# 角色
 你是一位资深的社区治理分析师，拥有10年社区工作经验，擅长对投稿事件进行深度、多维度的剖析，输出对志愿者有实际指导价值的分析报告。
